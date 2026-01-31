@@ -1,10 +1,10 @@
 # Sales Specialist & Developer
 
-Outbound Sales Expert | Appointment Setter | Revenue Pipeline Builder
+**Outbound Sales Expert** | **Appointment Setter** | **Revenue Pipeline Builder**
 
-I specialize in high-volume cold calling, lead qualification, and calendar management. With 120+ daily dials and proven 28%+ booking rates, I build consistent revenue pipelines. Based in Dhaka, Bangladesh, with experience scaling outbound operations across US home services markets.
+I specialize in **high-volume cold calling**, **lead qualification**, and **calendar management**. With **120+ daily dials** and proven **28%+ booking rates**, I build consistent revenue pipelines. Based in **Dhaka, Bangladesh**, with experience scaling outbound operations across US home services markets.
 
-**Current Focus:** Objection handling frameworks, CRM automation, and sales process optimization.
+**Current Focus:** Objection handling frameworks, CRM automation, sales process optimization.
 
 **Tech Stack:** HubSpot, Salesforce, Google Sheets, JavaScript, React.
 
@@ -14,11 +14,11 @@ I specialize in high-volume cold calling, lead qualification, and calendar manag
 
 ---
 
-## My Website
+## My Professional Website
 
-**[Visit My Portfolio →](https://sifat-there.vercel.app/)**
+**[Visit Portfolio →](https://sifat-there.vercel.app/)**
 
-Interactive sales playbooks, KPI tracking, and call simulators. Check it out.
+Explore my interactive sales platform featuring objection libraries, KPI dashboards, call simulators, and career timeline. Built with **React, TypeScript, GSAP**, and optimized for seamless performance.
 
 ---
 
