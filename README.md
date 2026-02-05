@@ -58,6 +58,6 @@ Explore my interactive sales platform featuring objection libraries, KPI dashboa
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sifat-Morshed&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=Sifat-Morshed&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sifat-Morshed&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&cache_seconds=21600" height="150" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=Sifat-Morshed&theme=dracula&hide_border=true&cache_seconds=21600" height="150" alt="streak graph" />
 </div>
